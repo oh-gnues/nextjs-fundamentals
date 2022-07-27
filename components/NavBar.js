@@ -16,7 +16,7 @@ export default function NavBar() {
           text-decoration: none;
         }
         .active {
-          color: yellow;
+          color: tomato;
         }
       `}</style>
     </nav>
